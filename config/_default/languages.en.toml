@@ -12,7 +12,6 @@ title = "Emmanuel Ogie"
   # logo = "img/logo.png"
   # secondaryLogo = "img/secondary-logo.png"
   # description = "My awesome website"
-  copyright = "Emmanuel Ogie &copy; 2025"
 
  [params.author]
   name = "Emmanuel Ogie"

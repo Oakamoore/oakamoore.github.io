@@ -9,3 +9,8 @@ on **game programming**, with a particular interest in **UI** & **Gameplay** pro
 I'm proficient with both **C++** and **C#**, as well as **Unreal Engine** and **Unity**, though I'm always looking to broaden my knowledge and expand my skillset.
 
 I'm currently seeking my first professional role in the games industry, as an entry level game programmer.
+
+
+<br>{{< button href="/emmanuel-ogie-cv.pdf" target="_blank" >}}
+View CV
+{{< /button >}}</br>

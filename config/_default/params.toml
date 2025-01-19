@@ -39,7 +39,7 @@ forgejoDefaultServer = "https://v8.next.forgejo.org"
   showCopyright = true
   showThemeAttribution = false
   showAppearanceSwitcher = false
-  showScrollToTop = true
+  showScrollToTop = false
 
 [homepage]
   layout = "hero" # valid options: page, profile, hero, card, background, custom

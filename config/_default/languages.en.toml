@@ -13,10 +13,9 @@ title = "Emmanuel Ogie"
  [params.author]
   name = "Emmanuel Ogie"
   image = "images/profile_picture.jpg"
-  email = "emmanuel.e.ogie@gmail.com"
   headline = "Game Programmer"
   links = [
-    { email = "mailto:emmanuel.e.ogie@gmail.com" },
+    { email = "mailto:contact@emmanuelogie.com" },
     { github = "https://github.com/Oakamoore" },
     { itch-io = "https://oakamoore.itch.io/" },
     { linkedin = "https://www.linkedin.com/in/emmanuel-ogie/" },

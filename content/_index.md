@@ -11,6 +11,6 @@ I'm proficient with both **C++** and **C#**, as well as **Unreal Engine** and **
 I'm currently seeking my first professional role in the games industry, as an entry level game programmer.
 
 
-<br>{{< button href="/Emmanuel_Ogie_CV.pdf" target="_blank" >}}
+<br>{{< button href="/Emmanuel-Ogie-CV.pdf" target="_blank" >}}
 View CV
 {{< /button >}}</br>
